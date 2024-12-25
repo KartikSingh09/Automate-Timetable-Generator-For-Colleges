@@ -1,0 +1,148 @@
+html {
+    background-color:#F0FFFF;
+    border: 7px double black;
+    margin: 1%;
+    padding: 0%;
+    height: 700px; 
+    
+
+   
+}
+
+#ab1 {
+   
+    
+    padding: 0.5%;
+    font-family:Gills sans;
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+    background-image: url('jp9.jpeg');
+   
+
+}
+
+#ab {
+    background-color:#111;
+    padding:15px;
+    margin-left:2%;
+    margin-right:2%;
+}
+
+#p1 {
+    font-size: 25px;
+    text-align: center;
+    color: rgb(15, 14, 16);
+    font-family: Garamond;
+}
+
+#ab3 {
+    text-align: center;
+    margin: 7%;
+    font-size: 30px;
+    font-family: italic;
+}
+
+
+ul{
+    list-style-type: none;
+    margin:0;
+    overflow:hidden;
+    background-color: #333;
+}
+li{
+    float:left;
+}
+li a{
+    display:block;
+    color:white;
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding:14px 16px;
+    text-decoration: none;
+}
+li a:hover:not(.active){
+    background-color:#0066b2;
+}
+.active{
+    background-color: #1B1212;
+}
+#fr{
+    
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+    padding:2px;
+    
+}
+.container{
+    background-color: #f2f2f2;
+    padding:30px 15px 10px 0px;
+    margin-left:390px;
+    margin-right:390px;
+    margin-top:100px;
+
+    border:2px solid black;
+    border-radius:5px;
+}
+.btn {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:grey;
+    border:2px solid black;
+    border-radius:5px;
+    text-align:center; 
+    cursor:pointer;
+    padding:10px;
+    
+
+}
+.btn1
+{
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+background-color:grey;
+border:2px solid black;
+border-radius: 10px;
+padding:5px 7px;
+text-align:center;
+margin-right:570px;
+margin-left:640px;
+margin-top:10px;
+cursor:pointer;
+}
+input[type=submit],
+input[type="button"]{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:grey;
+    border:2px solid black;
+    border-radius: 10px;
+    padding:5px 7px;
+    text-align:center;
+    margin:4px 2px;
+    cursor:pointer;
+}
+.container1{
+    background-color: #f2f2f2;
+    padding-left:20px;
+    padding-right:20px;
+    margin-left:390px;
+    margin-right:390px;
+    margin-top:10px;
+    border:2px solid black;
+    border-radius:5px;
+}
+.btn2
+{
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+background-color:grey;
+border:2px solid black;
+border-radius: 10px;
+padding:5px 7px;
+text-align:center;
+margin-right:340px;
+margin-left:300px;
+margin-top:10px;
+cursor:pointer;
+}
